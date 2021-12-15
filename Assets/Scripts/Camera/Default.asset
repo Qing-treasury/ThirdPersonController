@@ -16,13 +16,13 @@ MonoBehaviour:
   tpCameraStates:
   - Name: Default
     forward: -1
-    right: 0.35
-    maxDistance: 1.5
-    minDistance: 0.5
+    right: 0.61
+    maxDistance: 1.21
+    minDistance: 0.93
     Height: 1.5
   - Name: Nornal
     forward: 1
     right: 0
-    maxDistance: 1.5
+    maxDistance: 2.11
     minDistance: 0.5
     Height: 1.5

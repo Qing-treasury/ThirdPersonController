@@ -17,10 +17,7 @@ public class ThirdPersonController : ThirdPersonAnimator
         //HandleInput();
         UpdateAnimator();
         AnimMatchPhysicParameter();
-
-
     }
-
 
     private void FixedUpdate()
     {

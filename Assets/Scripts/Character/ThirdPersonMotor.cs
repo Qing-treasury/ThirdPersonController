@@ -17,6 +17,9 @@ public class ThirdPersonMotor : Character
 
     public float Dmag;
 
+    /// <summary>
+    /// ¿ØÖÆ ÒÆ¶¯
+    /// </summary>
     public void ControlLocomotionMove()
     {
         if (input2D != Vector2.zero)
